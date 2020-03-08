@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  /* text-align: center; */
+}
+.list-group-item:hover {
+  background: #eee;
+  cursor: pointer;
+}
+.selected-item {
+  background: lightblue !important;
+}
